@@ -2,7 +2,7 @@
 
 An autonomous AI competitive intelligence system that scans the AI ecosystem every morning and delivers a structured, opinionated digest to your inbox at 8 AM, with a built-in evaluation harness that scores its own output across five metrics.
 
-**Status:** Live · **Schedule:** Daily at 8 AM · **Sources scanned:** 30+ · **License:** MIT
+**Status:** Live · **Schedule:** Daily at 8AM · **Sources scanned:** 30+ · **License:** MIT
 
 ---
 
